@@ -51,7 +51,7 @@ Images captured through sensors or scanned images may contain **periodic noise**
 
 Before | After
 --- | ---
-![Original](images/original.png) | ![Cleaned](images/cleaned.png)
+![Original]([images/original.png](https://github.com/Muhabzz/Removing-Noise-Project/blob/master/Sampels/Periodic/Vertical.png)) | ![Cleaned]([images/cleaned.png](https://github.com/Muhabzz/Removing-Noise-Project/blob/master/Output/Screenshot%202025-05-05%20201233.png))
 
 ---
 
