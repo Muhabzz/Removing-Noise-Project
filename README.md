@@ -61,4 +61,4 @@ Before | After
 
 ## ✍️ Author
 
-Developed by **Mohab** as part of the Math 3 Final Project — Computer Science Faculty.
+Developed by **Mohab Nasser** as part of the Math 3 Team Project — Computer Science Faculty.
