@@ -51,9 +51,9 @@ Images captured through sensors or scanned images may contain **periodic noise**
 
 Before | After
 --- | ---
-![Original](https://github.com/Muhabzz/Removing-Noise-Project/blob/master/Sampels/Periodic/Vertical.png) | ![Cleaned](https://github.com/Muhabzz/Removing-Noise-Project/blob/master/Output/Screenshot%202025-05-05%20201233.png)
+<img src="https://github.com/Muhabzz/Removing-Noise-Project/blob/master/Sampels/Periodic/Vertical.png" width="300" /> | <img src="https://github.com/Muhabzz/Removing-Noise-Project/blob/master/Output/Screenshot%202025-05-05%20201233.png" width="300" />
+<img src="https://github.com/Muhabzz/Removing-Noise-Project/blob/master/Sampels/Random/Salt2.png" width="300" /> | <img src="https://github.com/Muhabzz/Removing-Noise-Project/blob/master/Output/Screenshot%202025-04-26%20194307.png" width="300" />
 
-![Original](https://github.com/Muhabzz/Removing-Noise-Project/blob/master/Sampels/Random/Salt2.png) | ![Cleaned](https://github.com/Muhabzz/Removing-Noise-Project/blob/master/Output/Screenshot%202025-04-26%20194307.png)
 
 
 
