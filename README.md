@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Removing-Noise-Project
 Removing Noise From Image Using FFT
 =======
@@ -66,4 +65,3 @@ Before | After
 ## ✍️ Author
 
 Developed by **Mohab Nasser** as part of the Math 3 Team Project — Computer Science Faculty.
->>>>>>> 8a68f660dfadb2182c1c7b5661c69d33129aee85
